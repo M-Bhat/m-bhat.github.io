@@ -28,7 +28,10 @@ My complete implementation of NLP on a restaurant review dataset
 
 <div style="text-align: justify">In this project, I applied principal component analysis (PCA) to the Wine dataset and performed Logistic regression using the Sklearn module.</div>
 <br>
-<center><img src="images/breast-cancer.png"/></center>
+<center><img src="images/PCA_0.png"/></center>
+<br>
+<br>
+<center><img src="images/PCA.png"/></center>
 <br>
 
 
