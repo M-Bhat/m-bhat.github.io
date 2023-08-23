@@ -2,25 +2,25 @@
 ---
 ## Natural Language Processing: Tensorflow, Sklearn and Gaussian Naive Bayes Classifier
 
-
+<div style="text-align: justify">
 My complete implementation of NLP on a restaurant review dataset
+</div>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/M-Bhat/NLP/tree/main).
 
-([GitHub](https://github.com/M-Bhat/NLP/tree/main)).
+---
 
-
-
-### Deep Learning Projects
+## Deep Learning Projects
 ## Detect image of cat or dog: Convolutional Neural Networks 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/M-Bhat/Deep-Learning/tree/master)
 
 <div style="text-align: justify">First, I built a convolutional neural network (CNN) using Tenserflow and Keras libraries. Then, I trained CNN using thousands of images of dogs and cats. Then, I predicted whether a single image is a cat or a dog</div>
 
-
+---
 ## Artificial Neural Network (ANN): Tensorflow,Keras, Sklearn
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/M-Bhat/Deep-Learning/tree/master)
 <div style="text-align: justify">In this project, I built an ANN using Tensorflow and Keras libraries. Then, I used the Churn Modeling dataset, (which contains details of bank customers) to train this ANN model. Before training the model, the dataset was first preprocessed using the LabelEncoder module from the Sklearn library to encode the gender category data, and then I used OneHotEncoder to encode the country categorical data. Then I used my ANN model to predict whether a particular customer would stay with the bank or not.</div>
 
-
+---
 ### Logistic Regression to the Wine dataset
 
 
