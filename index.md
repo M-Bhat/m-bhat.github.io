@@ -5,7 +5,8 @@
 <div style="text-align: justify">
 My complete implementation of NLP on a restaurant review dataset
 </div>
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/M-Bhat/NLP/tree/main)
+([GitHub](https://github.com/M-Bhat/NLP/tree/main))
+
 
 ---
 
@@ -13,7 +14,7 @@ My complete implementation of NLP on a restaurant review dataset
 ## Detect image of cat or dog: Convolutional Neural Networks 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/M-Bhat/Deep-Learning/tree/master)
 
-<div style="text-align: justify">First, I built a convolutional neural network (CNN) using Tenserflow and Keras libraries. Then, I trained CNN using thousands of images of dogs and cats. Then, I predicted whether a single image is a cat or a dog</div>
+<div style="text-align: justify">In this projec, I first built a convolutional neural network (CNN) using Tenserflow and Keras libraries. Then, I trained CNN using thousands of images of dogs and cats. Then, I predicted whether a single image is a cat or a dog</div>
 
 ---
 ## Artificial Neural Network (ANN): Tensorflow,Keras, Sklearn
