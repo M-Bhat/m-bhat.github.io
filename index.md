@@ -5,7 +5,7 @@
 <div style="text-align: justify">
 My complete implementation of NLP on a restaurant review dataset
 </div>
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/M-Bhat/NLP/tree/main).
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/M-Bhat/NLP/tree/main)
 
 ---
 
