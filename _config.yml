@@ -4,16 +4,14 @@ logo: "/images/venice2.jpg?raw=true"
 
 description:
   <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="pdf/Resume.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/m-bhat/">LinkedIn</a> |
   <a href="https://github.com/M-Bhat">GitHub</a>
   </p>
   
   <p align="justify">
-  I am pursing MS degree in Business Analytics at Simon Business School, University of Rochester.
-  <br><br>
-  I am currently a Machine Learning Research Intern at Skim AI Technologies with a focus on NLP and Deep Learning research.
-  <br><br>
+  I am a freelance Data Scientist with Ph.D. (pending defense) in theoretical particle physics (Lattice QCD) from Adam Mickiewicz University, Poznan, Poland. I have a M.Sc degree in Physics from Manipal University, Manipal, India and I also have a B.Sc degree with triple major in Physics, Mathematics and Computer Science.
+  
   </p>
   
 theme: jekyll-theme-minimal
