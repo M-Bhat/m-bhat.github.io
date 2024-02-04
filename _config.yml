@@ -10,9 +10,26 @@ description:
   </p>
   
   <p align="justify">
-  I am a freelance Data Scientist with Ph.D. (pending defense) in theoretical particle physics (Lattice QCD) from Adam Mickiewicz University, Poznan, Poland. I have a M.Sc degree in Physics from Manipal University, Manipal, India and I also have a B.Sc degree with triple major in Physics, Mathematics and Computer Science.
+  I am a freelance Data Scientist with Ph.D.  in theoretical particle physics (Lattice QCD) from Adam Mickiewicz University, Poznan, Poland. I have a M.Sc degree in Physics from Manipal University, Manipal, India and I also have a B.Sc degree with triple major in Physics, Mathematics and Computer Science.
   
   </p>
-  
+
+  <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/mbhat5 rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-7ab10a1b-ad9b-4be5-8bd0-7da74364c491' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >mbhat5</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>Experienced Data Scientist with 7+ years of expertise in Python, Machine Learning (ML), and Deep Learning (DL). Proven track record of translating complex datasets into actionable insights. Adept at developing innovative models and leveraging advanced technologies to drive strategic decision-making. 
+I am eager to bring my wealth of knowledge to your team. Let's embark on a journey of transforming data into decisions that matter, where my 7+ years of expertise will become a catalyst for your organization's success.</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-7ab10a1b-ad9b-4be5-8bd0-7da74364c491' src='https://widgets.fiverr.com/api/v1/seller/mbhat5?widget_id=7ab10a1b-ad9b-4be5-8bd0-7da74364c491' data-config='{"category_name":"Data"}' async='true' defer='true'></script>
+
 theme: jekyll-theme-minimal
 
